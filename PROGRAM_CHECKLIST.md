@@ -1,0 +1,43 @@
+# Visual Studio Programs Checklist
+
+LeetCode items are intentionally excluded.
+
+- [x] 1D Array: Insertion, Deletion, Traversal
+- [x] 1D Array Searching
+- [x] 1D Array Merging
+- [x] 2D Matrix Addition
+- [x] 2D Matrix Subtraction
+- [x] 2D Matrix Multiplication
+- [x] Matrix Transpose
+- [x] Linear Search
+- [x] Binary Search
+- [x] Bubble Sort
+- [x] Selection Sort
+- [x] Insertion Sort
+- [x] Merge Sort
+- [x] Quick Sort
+- [x] Radix Sort
+- [x] Singly Linked List: insertion, deletion, display, traversal, search, count, reverse
+- [x] Polynomial Representation
+- [x] Addition of Two Polynomials
+- [x] Circular LL insertion and deletion
+- [x] Doubly LL insertion and deletion
+- [x] Stack using Array and Linked List
+- [x] Infix to Postfix
+- [x] Postfix Evaluation
+- [x] Balanced Parentheses
+- [x] Tower of Hanoi
+- [x] Queue using Array and Linked List
+- [x] Circular Queue
+- [x] Priority Queue using Linked List
+- [x] Deque
+- [x] Binary Tree Creation
+- [x] Preorder, Inorder and Postorder Traversal
+- [x] BST Insertion and Deletion
+- [x] Min and Max Heap, Heap Sort
+- [x] Adjacency Matrix, BFS and DFS
+- [x] Prim's and Kruskal Algorithm (MST)
+- [x] Warshall and Dijkstra Algorithm
+- [x] Static vs Dynamic DS Analysis
+- [x] Top 10 Hashtags DS Selection
+- [x] Best Sorting Algorithm for Student Names
