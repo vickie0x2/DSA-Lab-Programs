@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Studio DSA Programs in C (Only)
 
 This repository contains **only the Visual Studio / practical-program topics** from your uploaded `Merged_Data_Structures_VisualStudio_LeetCode_Plan.numbers` plan. LeetCode questions have been excluded.
@@ -33,3 +34,7 @@ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 git push -u origin main
 ```
 Replace the URL with your own empty GitHub repository URL.
+=======
+# DSA-Lab-Programs
+C DSA Lab Programs
+>>>>>>> 4dba0fca0abb3c7fee77b61aa5832741afa299ce
